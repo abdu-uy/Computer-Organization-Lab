@@ -1,3 +1,4 @@
 # hellow-world
-hust another repository
-hellow evryone it`s my first time to use github!
+fn main(){
+  println!("hellow world");
+  }
